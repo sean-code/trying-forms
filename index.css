@@ -5,18 +5,20 @@
 }
 
 form{
-    margin: 20% 40% 1% 40%;
+    margin: 10% 40% 1% 40%;
 }
 form input{
-    width: 80%;
+    height: 20px;
+    width: 400px;
     padding: 7px;
     margin: 10px 10px 5px 10px;
     border-radius: 10px;
 }
 
 button{
+    width: 300px;
     padding: 4px;
-    margin-left: 50%;
+    margin-left: 43%;
     border-radius: 6px;
     background-color: blueviolet;
     color: white;
